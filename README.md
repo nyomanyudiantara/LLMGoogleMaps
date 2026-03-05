@@ -1,6 +1,3 @@
-# LLMGoogleMaps
-Local LLM that can output Google Maps's especially on where to find places to go/eat/etc.
-
 # 🌍 Google Maps Discovery Tool for Open WebUI
 
 This repository contains a Python-based tool designed for **Open WebUI**. It enables local LLMs to perform real-time location discovery, rendering interactive Google Maps and navigation links directly within the chat interface.
